@@ -5,5 +5,5 @@ definePageMeta({
 </script>
 
 <template>
-  <div>test page</div>
+  <div>custom layout check</div>
 </template>
